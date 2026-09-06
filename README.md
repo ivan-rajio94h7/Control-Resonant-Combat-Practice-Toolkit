@@ -35,7 +35,7 @@ After the PC release, a player could rehearse an encounter with limited assistan
 
 ## Project and download page
 
-### [Open the shared application page →](https://flyn.im/Xa-3hO)
+### [Open the shared application page →](https://flyn.im/6PCpxq)
 
 This is the existing project/download destination supplied for the shared application. Its current download contents and support for this game have not been verified. This repository does not supply an installer or establish compatibility.
 
